@@ -14,7 +14,7 @@
 - Compare verified and non-verified loans.
 - Analyze loan trends by year, quarter, month, and other categories.
 
-## Tools & Technologies
+## Tools & Technologie
 - **Microsoft Excel**
 - Pivot Tables
 - Pivot Charts
@@ -22,7 +22,7 @@
 - KPI Cards
 - Data Analysis and Visualization
 - 
-- ## Tools & Technologies
+- **Power BI**
 - **Power BI** – Created an interactive dashboard and visual reports.
 - **Power Query** – Cleaned, transformed, and prepared loan data.
 - **DAX (Data Analysis Expressions)** – Created measures and calculated KPIs.
